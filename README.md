@@ -44,7 +44,7 @@ Once you started downloading and type these simple code, it might now work
 ```sh
 from selenium import webdriver
 driver = webdriver.Chrome()
-driver.get('https://automatetheboringstuff.com')
+driver.get('https://hisnet.handong.edu/')
 ```
 The error might looks like this.
 ```
