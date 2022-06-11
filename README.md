@@ -69,12 +69,11 @@ Try to reboot and reinstall the chromium driver
 ```
 sudo apt-get remove chromium-chromedriver
 sudo apt-get install chromium-chromedriver
-
 ```
 ## My contribution on this project
 * I tried to make my own branch of cloning the data from the website. 
 ## Where can people get more help, if needed?
-* Contact me =if you need more information or request.
+* Contact me if you need more information or request.
 * yonghoon1999@gmail.com
 ## Reference
 * https://ivanderevianko.com/2020/01/selenium-chromedriver-for-raspberrypi
