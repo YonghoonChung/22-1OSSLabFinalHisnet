@@ -4,7 +4,7 @@
 
 ## What does this project do?
 - This project uses the open-source selenium and chrome-driver to scrape the booker’s name and phone number from the Hisnet reservation page.
-- It shows the data through the linux command line and telegram chat bot. 
+- It shows the data through the Linux command line and Telegram chatbot.
 <img width="759" alt="스크린샷 2022-06-11 오후 4 07 19" src="https://user-images.githubusercontent.com/96009062/173177562-bcdef021-1bf8-49b7-9f65-15543a54305e.png">
 <img width="200" alt="스크린샷 2022-06-11 오후 4 07 28" src="https://user-images.githubusercontent.com/96009062/173177645-34befee4-34b5-4ec9-bc0d-4176dd5edf2d.png">
 <img width="296" alt="스크린샷 2022-06-11 오후 4 19 50" src="https://user-images.githubusercontent.com/96009062/173177904-8678677d-575c-47ee-9ec9-c91d8fee2906.png"/>
@@ -37,6 +37,7 @@ sudo pip3 install python-telegram-bot
 ```
 You are ready to go!
 
+* On your commandline, `git clone https://github.com/YonghoonChung/22-1OSSLabFinalHisnet.git`
 * Go to its cloned repository and type `python3 hisnetCrawl.py` 
 * Download telegram in your device. Try any conference room to get the data.
 ## Errors while you are installing
