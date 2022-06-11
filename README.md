@@ -16,7 +16,7 @@
 <img width="420" alt="스크린샷 2022-06-11 오후 4 56 37" src="https://user-images.githubusercontent.com/96009062/173179082-71b2114d-9f02-410f-ba1d-21689ff1c085.png">
 
 ## Why is this project useful?
-- During this semester, I realized that several people irresponsibly booked the conference room and did not show up. This leads to the waste of materials. I wondered how to solve this issue, then the answer did not easily pop up. What about we let the other people just use this room after getting permission. Therefore this program has come out.
+- During this semester, I realized that several people irresponsibly booked the conference room and did not show up. This leads to the waste of materials. I wondered how to solve this issue, and the answer did not easily pop up. What about we let the other people just use this room after getting permission. Therefore this program has come out.
 - I thought it will be great if someone tells me the name and phone number of the booker, then I might be able to take an action on whether to use this room for a few minutes.
 - This project is very useful to everyone. By using this program, students can find better places and efficient ways of using the conference room. Also, this program indicates the empty room at the time. Without using this program, a person had to visit every page of the conference room whether the room is empty or not. However, by waiting until the program is getting ready, the user can easily find which room is empty and which room it shouldn't be empty.
 
@@ -38,7 +38,7 @@ sudo pip3 install python-telegram-bot
 You are ready to go!
 
 * Go to its cloned repository and type `python3 hisnetCrawl.py` 
-* Download telegram in your
+* Download telegram in your device. Try any conference room to get the data.
 ## Errors while you are installing
 Once you started downloading and type these simple code, it might now work
 ```sh
@@ -71,8 +71,11 @@ sudo apt-get remove chromium-chromedriver
 sudo apt-get install chromium-chromedriver
 
 ```
+## My contribution on this project
+* I tried to make my own branch of cloning the data from the website. 
 ## Where can people get more help, if needed?
-
+* Contact me =if you need more information or request.
+* yonghoon1999@gmail.com
 ## Reference
 * https://ivanderevianko.com/2020/01/selenium-chromedriver-for-raspberrypi
 * https://stackoverflow.com/questions/64979042/how-to-run-seleniumchrome-on-raspberry-pi-4
